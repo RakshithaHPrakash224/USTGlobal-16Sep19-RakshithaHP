@@ -1,0 +1,32 @@
+body{
+    background-image: url(login-bg.jpg);
+    background-size: cover;
+    height: 100%;
+}
+form{
+    border: 1px solid black;
+    width: 450px;
+    height: 400px;
+    padding: 10px;
+    background-color: white;
+    text-align: center;
+    margin-left:600px;
+    margin-top: 100px;
+    font-family: cursive;
+}
+
+
+input[type=text],input[type=password]
+{
+    
+    outline: none;
+    padding: 10px;
+    border-radius: 10px;
+    width: 225px;
+    height: 25px;
+    background-color: aliceblue;
+    border-radius: 10px;
+}
+
+
+
